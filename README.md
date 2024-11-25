@@ -1,5 +1,7 @@
 Este projeto é uma aplicação web desenvolvida em Next.js 14.2.15 para exibir informações de partidas de futebol ao vivo do mundo inteiro.
 
+![Aplicação](./assets/live-football.png)
+
 ## Getting Started
 
 First, run the development server:
