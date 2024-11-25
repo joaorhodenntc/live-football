@@ -2,6 +2,10 @@ Este projeto é uma aplicação web desenvolvida em Next.js 14.2.15 para exibir 
 
 ![Aplicação](public/assets/app-image.png)
 
+## 🌐 Link do Projeto
+
+[Veja o projeto online](https://live-football-psi.vercel.app/)
+
 ## Getting Started
 
 First, run the development server:
